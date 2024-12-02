@@ -1,0 +1,832 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="https://publicaciones.sociales.uba.ar/index.php/anacronismo/article/view/5258">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2250-4982"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Trebissace Marchand</foaf:surname>
+                        <foaf:givenName>Catalina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>años ochenta</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>derechos humanos</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>feminismos</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Violencias</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Un nacimiento situado para la violencia de género. Indagaciones sobre la militancia feminista porteña de los años 80</dc:title>
+        <dcterms:abstract>El presente artículo es un estudio de perspectiva histórica anclado en los años ochenta para analizar la militancia feminista local en lo que respecta a la problematización de las violencias hacia las mujeres (cis) y su lucha por la conquista de derechos (humanos). El texto sostiene la hipótesis de que es en este período en el que se introduce el significante violencia como el modo para referirse a los padecimientos de las mujeres (cis), y que esta situación estuvo ligada a transformaciones en los regímenes de gubernamentalidad del mundo occidental, a las particularidades del contexto latinoamericano y a la renovación de las militantes feministas porteñas de esos años. Con el ingreso del significante violencia se dejan atrás o pierden jerarquía las explicaciones en términos de opresión específica, aunque se heredan algunos de sus recortes analíticos. Asimismo, el nombre de la violencia desplaza otros intentos de codificar la situación de las mujeres (cis) en términos de discriminación.</dcterms:abstract>
+        <dc:date>2020-05-11</dc:date>
+        <z:language>es</z:language>
+        <z:libraryCatalog>publicaciones.sociales.uba.ar</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://publicaciones.sociales.uba.ar/index.php/anacronismo/article/view/5258</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-01 13:29:17</dcterms:dateSubmitted>
+        <dc:rights>Copyright (c) 2020 Anacronismo e irrupción</dc:rights>
+        <dc:description>Number: 18</dc:description>
+        <bib:pages>118-138</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2250-4982">
+        <prism:volume>10</prism:volume>
+        <dc:title>Anacronismo e irrupción</dc:title>
+        <dc:identifier>DOI 10.62174/aei.5258</dc:identifier>
+        <prism:number>18</prism:number>
+        <dc:identifier>ISSN 2250-4982</dc:identifier>
+    </bib:Journal>
+    <rdf:Description rdf:about="#item_370">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Comisión Organizadora</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Encuentros</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Folleto Síntesis del IV ENM</dc:title>
+        <dcterms:abstract>Resumen hecho por la Comisión Organizadora que incluye, discurso de apertura, conclusiones y detalles sobre las discusiones dentro de los talleres, etc.</dcterms:abstract>
+        <dc:date>1989</dc:date>
+        <z:libraryCatalog>COinS</z:libraryCatalog>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_372">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sebreli</foaf:surname>
+                        <foaf:givenName>Juan José</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Activismo gay</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Derechos humanos</dc:subject>
+        <dc:subject>Dictadura e iglesia católica</dc:subject>
+        <dc:subject>Feminismo y activismo LGBTQ+</dc:subject>
+        <dc:subject>Homosexualidad</dc:subject>
+        <dc:subject>Marxismo</dc:subject>
+        <dc:title>Mesa redonda: homosexualidad y Derechos Humanos</dc:title>
+        <dcterms:abstract>Transcripción [audio no disponible, de un fragmento] de la charla realizada en la Librería del Humanista de la Capital Federal, en ese momento, a cargo de Horacio Tarcus y Laura Klein. 
+En la charla participaron los escritores Juan José Sebrelli y Oscar Hermes Villordo y el psicoanalista Pacho O'Donnel. En el anuncio de la charla publicado en el Diario Clarín se detallaba también como expositora a la militante feminista María Elena Oddone, pero en la transcripción figura como parte del público. La moderadora de la charla fue Gladys Croxatto, impulsora del Movimiento Guey para la Liberación y de la Coordinadora de Grupos Gays (1983-1984)
+La presente transcripción comienza en un momento en el que la charla parece avanzada, tratándose, sobre todo, del intercambio de los expositores con el público.
+El documento comienza con una caracterización acerca de las causas de la antihomosexualidad, desde una perspectiva marxista.  El diálogo avanza sobre la persecución policial en clave histórica durante una gran parte del siglo XX en Argentina e incluye un intercambio con el público [con la trabajadora sexual y activista Ruth Mary Kelly] sobre la persecución a las prostitutas.  Luego, se desarrolla un debate sobre la conceptualización de la homosexualidad en relación a las circunstancias biológicas, culturales, familiares y existenciales y la represión de la sexualidad. Posteriormente, se retoma un diálogo con Juan José Sebreli sobre el trotskismo argentino, especialmente en torno al vínculo del Partido Socialista de los Trabajadores (PST) y el Frente de Liberación Homosexual (FLH). Esto propició una discusión con el público [entre el que se encontraba Marcelo Manuel Benítez, ex integrante del FLH].  Luego, se aborda el cruce entre los derechos humanos y la represión a la sexualidad. Finaliza con una discusión sobre el rol de la Iglesia Católica y su relación con las dictaduras del cono sur.</dcterms:abstract>
+        <dc:date>04/11/1983</dc:date>
+        <z:language>Español</z:language>
+        <z:shortTitle>Mesa redonda</z:shortTitle>
+        <z:libraryCatalog>COinS</z:libraryCatalog>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_374">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Lugar de Mujer</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Feminismos</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>[Volante de Lugar de Mujer]: &quot;Aquí las mujeres somos protagonistas&quot; [con detallles de la propuesta de la organización]</dc:title>
+        <dcterms:abstract>Información sobre como y que se hace en la casa de Lugar de Mujer.</dcterms:abstract>
+        <z:shortTitle>[Volante de Lugar de Mujer]</z:shortTitle>
+        <z:libraryCatalog>COinS</z:libraryCatalog>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_375">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Movimiento Feminista Argentino</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Feminismos</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>&quot;Un acto de violencia&quot;</dc:title>
+        <dcterms:abstract>Carta para Lugar de Mujers desde la organización &quot;Movimiento Feminista Argentino&quot; (PRISMA, Alternativa feminista, Libera, Tribunal en contra de la mujer y mujeres independientes)</dcterms:abstract>
+        <dc:date>1/09/1985</dc:date>
+        <z:archive>Fondo Hilda Rais. Centro de Documentación e Investigación de la Cultura de Izquierdas (CeDInCI)</z:archive>
+        <z:libraryCatalog>COinS</z:libraryCatalog>
+    </rdf:Description>
+    <bib:Article rdf:about="https://www.aletheia.fahce.unlp.edu.ar/article/view/alee176">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1853-3701"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oberti</foaf:surname>
+                        <foaf:givenName>Alejandra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Democracia</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Derechos humanos</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Feminismo</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Derechos de las mujeres</dc:subject>
+        <dc:subject>Dictadura y postdictadura</dc:subject>
+        <dc:subject>Movimientos sociales</dc:subject>
+        <dc:title>Mirando la democracia desde abajo: el movimiento de mujeres en los años de la transición</dc:title>
+        <dcterms:abstract>The article analyzes the experience of some feminist groups that, at the time of the transition, organized themselves to think, discuss and activate with the aim of providing the democracy that was to come with a perspective that would include women's rights in a substantial way. The text focuses on several aspects of this experience. A description of those associations formed by militants of the new left of the 1970s, feminist women who had been silenced during the dictatorship and members of human rights organizations; a presentation of some of the actions they carried out; the encounters and misunderstandings with other movements and finally analyzes the continuities and ruptures that occurred in the following years.</dcterms:abstract>
+        <dc:date>2023-12-01</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Mirando la democracia desde abajo</z:shortTitle>
+        <z:libraryCatalog>www.aletheia.fahce.unlp.edu.ar</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.aletheia.fahce.unlp.edu.ar/article/view/alee176</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-01 13:48:33</dcterms:dateSubmitted>
+        <dc:rights>Derechos de autor 2024</dc:rights>
+        <dc:description>Number: 27</dc:description>
+        <bib:pages>e176-e176</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1853-3701">
+        <prism:volume>14</prism:volume>
+        <dc:title>Aletheia</dc:title>
+        <dc:identifier>DOI 10.24215/18533701e176</dc:identifier>
+        <prism:number>27</prism:number>
+        <dc:identifier>ISSN 1853-3701</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://www.jstor.org/stable/25764527">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0185-4186"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Felitti</foaf:surname>
+                        <foaf:givenName>Karina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Derechos reproductivos</dc:subject>
+        <dc:subject>Dictadura</dc:subject>
+        <dc:subject>Feminismo en Argentina</dc:subject>
+        <dc:subject>Frente de Liberación Homosexual</dc:subject>
+        <dc:title>Sexualidad y reproducción en la agenda feminista de la segunda ola en la Argentina (1970-1986)</dc:title>
+        <dcterms:abstract>En la Argentina de los años setenta emergieron distintas agrupaciones feministas que expusieron sus demandas en relación con la libertad sexual, la anticoncepción y el aborto. En su lucha encontraron puntos en común con otra organización que reivindicaba la autonomía y libertad corporal: el Frente de Liberación Homosexual. El cuestionamiento a la maternidad como destino femenino y a los modelos de género y sexualidad hegemónicos se combinó con una crítica al sistema político y económico imperante, y se enfrentó con los objetivos demográficos estatales y un ideal de familia anclado en la tradición católica. En este artículo analizo algunas estrategias desplegadas por estos colectivos a partir de la década de 1970, las articulaciones de sus discursos y su anclaje en un contexto signado por la multiplicación de las utopías revolucionarias y una sangrienta represión estatal, hasta la recuperación de la democracia, con sus nuevos horizontes y problemáticas. During the 1970s in Argentina various feminist groups emerged expressing their demands in relation to sexual freedom, contraception and abortion. In their struggle they found points in common with another organization that claimed autonomy and freedom in relation to the body: the Gay Liberation Front (Frente de Liberación Homosexual). The questioning of maternity as female destiny and of hegemonic models of gender and sexuality was combined with criticism of the prevailing political and economic system, and confronted the State's demographic objectives and the image of the ideal family anchored in the Catholic tradition. In this article the author discusses some strategies undertaken by these groups from the early 1970s, how they articulated their discourses, and their roots in a context that is signed by the multiplication of revolutionary utopias and a bloody State repression, up to the restitution of democracy, with its new horizons and issues.</dcterms:abstract>
+        <dc:date>2010</dc:date>
+        <z:libraryCatalog>JSTOR</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.jstor.org/stable/25764527</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-01 13:49:24</dcterms:dateSubmitted>
+        <dc:description>Publisher: El Colegio De Mexico</dc:description>
+        <bib:pages>791-812</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0185-4186">
+        <prism:volume>28</prism:volume>
+        <dc:title>Estudios Sociológicos</dc:title>
+        <prism:number>84</prism:number>
+        <dc:identifier>ISSN 0185-4186</dc:identifier>
+    </bib:Journal>
+    <bib:BookSection rdf:about="https://d1wqtxts1xzle7.cloudfront.net/103313841/DI_TULLIO_Feminismos_y_politica_II_1_2_1_-libre.pdf?1686612327=&amp;response-content-disposition=inline%3B+filename%3DEl_derecho_a_la_ESI_La_potencia_de_una_a.pdf&amp;Expires=1733064575&amp;Signature=Ko27mqYNhoJQGOzoX1rbb3RJXfamVRICszNzb8fWbgWbXSi~1e0LgiKlxJU88bn9aYjIu-FpIAW~VJrdssqv2-axWL8eXY2-KusKiAmAAtWfhRX4NuvCIZpU86SL9HFqlvkC1Xi9JPyxzrJ787hTbeoLKZAJNfXvVwwYFVwERyBiT8B4puNJa7AEdtdmTZA2j-QILL9DaeMZRoALAtnQvkynWrrCthQ2C3kzmSnllEiCtftyd5RAep5OJsn4wAmzntZA~6ZCKgLyOIaDHvlDrwzC2M8hBGRR3maEMqf5m~pYozS9VQdF-7p7D4gOLVyttbSyP9mrSiLr55fo3ZQMVw__&amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=97">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Feminismos y política II: educación, cultura y memoria</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Resistencia</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ConTexto Libros</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Trebissacce Marchand</foaf:surname>
+                        <foaf:givenName>Catalina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Memorias de los feminismos porteños de la década del 80</dc:title>
+        <dc:date>2023</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://d1wqtxts1xzle7.cloudfront.net/103313841/DI_TULLIO_Feminismos_y_politica_II_1_2_1_-libre.pdf?1686612327=&amp;response-content-disposition=inline%3B+filename%3DEl_derecho_a_la_ESI_La_potencia_de_una_a.pdf&amp;Expires=1733064575&amp;Signature=Ko27mqYNhoJQGOzoX1rbb3RJXfamVRICszNzb8fWbgWbXSi~1e0LgiKlxJU88bn9aYjIu-FpIAW~VJrdssqv2-axWL8eXY2-KusKiAmAAtWfhRX4NuvCIZpU86SL9HFqlvkC1Xi9JPyxzrJ787hTbeoLKZAJNfXvVwwYFVwERyBiT8B4puNJa7AEdtdmTZA2j-QILL9DaeMZRoALAtnQvkynWrrCthQ2C3kzmSnllEiCtftyd5RAep5OJsn4wAmzntZA~6ZCKgLyOIaDHvlDrwzC2M8hBGRR3maEMqf5m~pYozS9VQdF-7p7D4gOLVyttbSyP9mrSiLr55fo3ZQMVw__&amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=97</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>129-140</bib:pages>
+    </bib:BookSection>
+    <bib:Book rdf:about="#item_380">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Buenos Aires</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>La Campana</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aldaburu</foaf:surname>
+                        <foaf:givenName>María Inés</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cano</foaf:surname>
+                        <foaf:givenName>Inés</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rais</foaf:surname>
+                        <foaf:givenName>Hilda</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reynoso</foaf:surname>
+                        <foaf:givenName>Nené</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_381"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Mujeres</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Diario colectivo</dc:title>
+        <dc:date>1983</dc:date>
+        <z:libraryCatalog>Library Catalog (Koha)</z:libraryCatalog>
+        <z:numPages>251</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_381">
+       <rdf:value>Procedencia: Biblioteca Agustín Cuzzani</rdf:value>
+    </bib:Memo>
+    <bib:Document rdf:about="https://memoriaabierta.org.ar/wp/insumisas-encuentros-del-feminismo-y-el-movimiento-de-derechos-humanos/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Memoria Abierta</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Derechos humanos</dc:subject>
+        <dc:subject>Feminismo</dc:subject>
+        <dc:subject>Activismo social</dc:subject>
+        <dc:title>#Insumisas. Encuentros del feminismo y el movimiento de Derechos Humanos</dc:title>
+        <dcterms:abstract>#Insumisas reconstruye la memoria de la articulación entre las prácticas feministas y las del movimiento de derechos humanos a través de las voces de sus protagonistas, documentos y publicaciones. Desde el final de la dictadura el feminismo diseñó estrategias, creó colectivos, se reunió en espacios públicos y privados, adquirió una presencia creciente en la vida política argentina. Sus intervenciones tuvieron encuentros y desencuentros con el movimiento de derechos humanos. Dialogaron en ocasiones de modo subterráneo, otras en confluencia, tejiendo lazos y apoyos en una alianza creativa, que se transformó a lo largo de las décadas, al calor de los procesos políticos nacionales, regionales e internacionales.
+Esta serie de videos está compuesta de pequeños fragmentos de los materiales que estamos reuniendo en Memoria Abierta y que están disponibles en sus versiones completas en nuestra sede.
+Retomamos para esta colección el término “Insumisas” que ha sido usado por diferentes colectivos de mujeres que han hecho de la creatividad una forma de resistencia. Insumisas son las feministas, las Madres, la Abuelas. Insumisas son también las prácticas del movimiento de derechos humanos y del movimiento de mujeres.
+Lista de reproducción en Youtube: https://www.youtube.com/playlist?list=PLO2MPpHCy1nwggslsS9ciKskLfC4n4c7t</dcterms:abstract>
+        <z:language>es</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://memoriaabierta.org.ar/wp/insumisas-encuentros-del-feminismo-y-el-movimiento-de-derechos-humanos/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-01 14:43:53</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Book rdf:about="urn:isbn:978-99925-823-7-4">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Asunción</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Colihue-Mimbipá</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oddone</foaf:surname>
+                        <foaf:givenName>María Elena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Feminismo</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Memorias</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>La pasión por la libertad: Memorias de una feminista</dc:title>
+        <dc:date>2001</dc:date>
+        <z:shortTitle>La pasión por la libertad</z:shortTitle>
+        <z:libraryCatalog>Library Catalog (Koha)</z:libraryCatalog>
+        <dc:identifier>ISBN 978-99925-823-7-4</dc:identifier>
+        <z:numPages>282</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-987-614-434-6">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>CABA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Capital Intelectual</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bellucci</foaf:surname>
+                        <foaf:givenName>Mabel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>History</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>ABORTO EN ARGENTINA</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>CUESTION DE GENERO EN ARGENTINA</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Historia de una desobediencia: aborto y feminismo</dc:title>
+        <dc:date>2014</dc:date>
+        <z:shortTitle>Historia de una desobediencia</z:shortTitle>
+        <z:libraryCatalog>Library Catalog (Koha)</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>HQ1532 .B45 2014</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>Medium: texto
+OCLC: ocn896812387</dc:description>
+        <dc:identifier>ISBN 978-987-614-434-6</dc:identifier>
+        <prism:edition>1ª</prism:edition>
+        <z:numPages>512</z:numPages>
+    </bib:Book>
+    <bib:Recording rdf:about="https://www.youtube.com/watch?v=RYkXOYAvGTo">
+        <z:itemType>videoRecording</z:itemType>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Casa Sofia</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <dc:title>#Alternativas. 2da temporada. Cap. 4: Adriana Carrasco ♡</dc:title>
+        <dcterms:abstract>Adriana Carrasco es imprescindible para hablar sobre la genealogía de los feminismos. Milita mucho antes de que estuvieran en agenda. Creó los Cuadernos de Existencia Lesbiana del grupo feminista de denuncia y le puso el cuerpo a nuestras demandas mucho antes de que fueran masivas. Es lesbiana, periodista, estudió derecho y cine. Abortó la heteronorma de todos los aspectos de su vida y por eso es hoy para muches de nosotres una referente. 
+
+Escucharla abre cabezas. Te invitamos.
+
+Alternativas es una serie de entrevistas a mujeres, lesbianas y trans pioneras de la cultura en nuestro país. Conocé más sobre la serie aquí: 
+  / 2393751757552454</dcterms:abstract>
+        <dc:date>2020-03-22</dc:date>
+        <z:shortTitle>#Alternativas. 2da temporada. Cap. 4</z:shortTitle>
+        <z:libraryCatalog>YouTube</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=RYkXOYAvGTo</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-01 15:25:45</dcterms:dateSubmitted>
+        <z:runningTime>25:59</z:runningTime>
+    </bib:Recording>
+    <bib:Recording rdf:about="https://www.youtube.com/watch?v=Q2KRW76FY3I">
+        <z:itemType>videoRecording</z:itemType>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grammático</foaf:surname>
+                        <foaf:givenName>Karin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>Feminismo</dc:subject>
+        <dc:subject>Dictadura</dc:subject>
+        <dc:title>Un feminismo que oculta su nombre. Algunas experiencias del activismo feminista en dictadura</dc:title>
+        <dcterms:abstract>Charla a cargo de Dra. Karin Grammático (UNAJ-IIEGE/UBA)
+
+Organizan: Cátedra Planificación didáctica y prácticas de la enseñanza en historia - Departamento de Historia - FaHCE | CInIG - IdIHCS</dcterms:abstract>
+        <dc:date>2022-04-04</dc:date>
+        <z:libraryCatalog>YouTube</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=Q2KRW76FY3I</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-01 15:30:57</dcterms:dateSubmitted>
+        <z:runningTime>2:06:53</z:runningTime>
+    </bib:Recording>
+    <bib:Document rdf:about="https://www.moleculasmalucas.com/post/tribunal-de-violencia-contra-la-mujer">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Moléculas Malucas</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bellucci</foaf:surname>
+                        <foaf:givenName>Mabel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Tribunal de violencia contra la mujer</dc:subject>
+        <dc:title>Tribunal de Violencia Contra la Mujer: el caso Mabel Adriana Montoya</dc:title>
+        <dcterms:abstract>Los femicidios tienen historia y nos remiten, en clave genealógica, a lo que atravesamos en este presente de aislamiento social obligatorio. A ciencia cierta se sabe que la única medida preventiva para frenar la pandemia por COVID-19 es “Quedáte en tu casa”. Sin embargo, lo que sí urge advertir es que no siempre ese llamamiento representa un resguardo para todas las mujeres y niñes, menos aún, un refugio de amor y paz. Las estadísticas lo demuestran: cada 29 horas se comete un femicidio. Entonces cabe implementar estrategias y tácticas de acción desde los movimientos sociales como desde las instituciones públicas, como se llevan a cabo en otras partes del mundo, para anticipar y resolver las violencias múltiples que encierran las cuatro paredes del hogar. De eso va este texto. Moléculas Malucas rescata dos hitos de participación del feminismo nacional como internacional comprometidos en denunciar las prácticas de violencia física y sexual que se ejercen contra las mujeres.</dcterms:abstract>
+        <z:language>es</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.moleculasmalucas.com/post/tribunal-de-violencia-contra-la-mujer</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-01 15:34:09</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.moleculasmalucas.com/post/el-semanario-nueva-presencia">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Moléculas Malucas</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bellucci</foaf:surname>
+                        <foaf:givenName>Mabel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>El semanario Nueva Presencia: páginas para los derechos humanos, el judaísmo, las minorías sexuales y el feminismo</dc:title>
+        <dcterms:abstract>Durante la dictadura cívico militar y en los primeros años del gobierno democrático, las páginas del semanario Nueva Presencia, dirigido por Herman Schiller, otorgaron un lugar destacado y dieron impulso a una agenda de debates preliminares en torno a las minorías sexuales y al feminismo. Con este artículo, Moléculas Malucas aborda el intento de Nueva Presencia de incorporar una visión más amplia y abarcadora de los derechos humanos que aquella enarbolada por los organismos y partidos de izquierda de ese entonces.</dcterms:abstract>
+        <z:language>es</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.moleculasmalucas.com/post/el-semanario-nueva-presencia</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-01 15:37:12</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Book rdf:about="urn:isbn:978-987-691-713-1">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Buenos Aires</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Editorial Biblos</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Daich</foaf:surname>
+                        <foaf:givenName>Deborah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_395"/>
+        <dc:title>Tras las huellas de Ruth Mary Kelly: feminismos y prostitución en la Buenos Aires del siglo XX</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>spa</z:language>
+        <z:shortTitle>Tras las huellas de Ruth Mary Kelly</z:shortTitle>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-987-691-713-1</dc:identifier>
+        <prism:edition>Primera edición</prism:edition>
+        <z:numPages>200</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_395">
+       <rdf:value>Includes bibliographical references (pages 189-198)</rdf:value>
+    </bib:Memo>
+    <bib:Document rdf:about="https://www.moleculasmalucas.com/post/una-porfía-entre-néstor-perlongher-y-maría-elena-oddone">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Moléculas Malucas</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Queiroz</foaf:surname>
+                        <foaf:givenName>Juan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bellucci</foaf:surname>
+                        <foaf:givenName>Mabel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Feminismos</dc:subject>
+        <dc:subject>Violencia de género</dc:subject>
+        <dc:subject>Feminismo en la postdictadura</dc:subject>
+        <dc:subject>Femicidios</dc:subject>
+        <dc:subject>Tribunal de violencia contra la mujer</dc:subject>
+        <dc:title>Una porfía entre Néstor Perlongher y María Elena Oddone: un audio inédito con un intenso debate entre la histórica militante feminista y la tía del liberacionismo gay argentino</dc:title>
+        <z:language>es</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.moleculasmalucas.com/post/una-porfía-entre-néstor-perlongher-y-maría-elena-oddone</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-01 15:55:34</dcterms:dateSubmitted>
+    </bib:Document>
+    <rdf:Description rdf:about="https://hemeroteca.memoriaabierta.org.ar/boletin_informativo.php?id=161">
+        <z:itemType>dataset</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Memoria Abierta</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Asociación de Estudios y Trabajo sobre la Mujer (ATEM)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Feminismos</dc:subject>
+        <dc:subject>Derechos humanos</dc:subject>
+        <dc:subject>Década de 1980</dc:subject>
+        <dc:subject>Revistas</dc:subject>
+        <dc:subject>Activismo</dc:subject>
+        <dc:subject>América Latina</dc:subject>
+        <dc:subject>Género</dc:subject>
+        <dc:title>Brujas [publicación]</dc:title>
+        <dcterms:abstract>Colección completa digitalizada de la revista Brujas, editadas entre los años 1983 y 2004 por la Asociación de Trabajo y Estudio sobre la Mujer (ATEM)</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hemeroteca.memoriaabierta.org.ar/boletin_informativo.php?id=161</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-01 15:58:20</dcterms:dateSubmitted>
+    </rdf:Description>
+    <bib:Document rdf:about="https://tierra-violeta.com.ar/biblioteca-feminaria/revista-feminaria">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Tierra Violeta</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Feminaria</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Encuentro Nacional de Mujeres</dc:subject>
+        <dc:subject>Feminismo y literatura</dc:subject>
+        <dc:subject>Medios de comunicación y género</dc:subject>
+        <dc:subject>Mujeres en la historia argentina</dc:subject>
+        <dc:subject>Teoría feminista</dc:subject>
+        <dc:title>Revista Feminaria</dc:title>
+        <dcterms:abstract>Revista Feminaria El retorno a la democracia a comienzos de los ‘80 tiene como protagonistas a muchas mujeres que comienzan a organizarse en un movimiento multisectorial desde partidos políticos, sindicatos, […]</dcterms:abstract>
+        <z:language>es-AR</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://tierra-violeta.com.ar/biblioteca-feminaria/revista-feminaria</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-01 16:20:04</dcterms:dateSubmitted>
+    </bib:Document>
+    <rdf:Description rdf:about="https://americalee.cedinci.org/portfolio-items/alfonsina/">
+        <z:itemType>dataset</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Americalee</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:subject>Feminismos</dc:subject>
+        <dc:subject>Derechos humanos</dc:subject>
+        <dc:subject>Mujeres</dc:subject>
+        <dc:subject>Diversidad Sexual</dc:subject>
+        <dc:subject>Transición democrática</dc:subject>
+        <dc:subject>Prensa independiente</dc:subject>
+        <dc:title>Alfonsina: primer periódico para mujeres</dc:title>
+        <dcterms:abstract>Colección completa digitalizada de la revista Alfonsina, publicada entre los años 1984 y 1986 en Buenos Aires, bajo la dirección periodística de María Moreno.</dcterms:abstract>
+        <z:language>es</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://americalee.cedinci.org/portfolio-items/alfonsina/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-01 16:21:38</dcterms:dateSubmitted>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://sexoyrevolucion.cedinci.org/s/la-comunidad-del-archivo/item/12676">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rais</foaf:surname>
+                        <foaf:givenName>Hilda</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Violencias</dc:subject>
+        <dc:subject>Feminismos</dc:subject>
+        <dc:subject>Mujeres</dc:subject>
+        <dc:subject>Identidad</dc:subject>
+        <dc:subject>Poder y violencia</dc:subject>
+        <dc:title>&quot;¿Cómo respondemos las feministas a la Violencia de género de otras feministas? o &quot;Es un tema complejo...&quot;</dc:title>
+        <dcterms:abstract>Este ensayo escrito por Hilda Raís, es producto del taller (del mismo nombre) llevado adelante en Lugar de Mujer. Aquí podemos leer conclusiones personales y grupales respecto a dos hechos de Violencia de género.</dcterms:abstract>
+        <dc:date>1/12/1987</dc:date>
+        <z:shortTitle>&quot;¿Cómo respondemos las feministas a la Violencia de género de otras feministas?</z:shortTitle>
+        <z:archive>Fondo Hilda Rais. Centro de Documentación e Investigación de la Cultura de Izquierdas (CeDInCI)</z:archive>
+        <z:libraryCatalog>COinS</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://sexoyrevolucion.cedinci.org/s/la-comunidad-del-archivo/item/12676</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_411">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rais</foaf:surname>
+                        <foaf:givenName>Hilda</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Lugar de Mujer</dc:subject>
+        <dc:subject>Lesbianismo</dc:subject>
+        <dc:subject>Violencia de género</dc:subject>
+        <dc:subject>Sexualidad</dc:subject>
+        <dc:subject>Teoría feminista</dc:subject>
+        <dc:subject>Homosexualidad y feminismo</dc:subject>
+        <dc:title>&quot;Homosexualidad&quot; [ensayo]</dc:title>
+        <dcterms:abstract>Ensayo escrito por Hilda Rais, presentado en el segundo symposium nacional multidiciplinario de sexualidad humana.</dcterms:abstract>
+        <dc:date>1/08/1987</dc:date>
+        <z:archive>Fondo Hilda Rais. Centro de Documentación e Investigación de la Cultura de Izquierdas (CeDInCI)</z:archive>
+        <z:libraryCatalog>COinS</z:libraryCatalog>
+    </rdf:Description>
+    <bib:Document rdf:about="https://sexoyrevolucion.cedinci.org/s/la-comunidad-del-archivo/page/encuentros">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Sexo y Revolución</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Programa de Memorias Políticas Feministas y Sexo Genéricas (Sexo y Revolución, CeDInCI)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Feminismos</dc:subject>
+        <dc:subject>Derechos humanos</dc:subject>
+        <dc:subject>Mujeres</dc:subject>
+        <dc:subject>Encuentros Plurinacionales de Mujeres, Lesbianas, Trans, Travestis, Bisexuales, Intersexuales y No Binaries</dc:subject>
+        <dc:subject>Activismo LGBT+ y de Género</dc:subject>
+        <dc:title>Colección: Encuentros Plurinacionales de Mujeres, Lesbianas, Trans, Travestis, Bisexuales, Intersexuales y No Binaries</dc:title>
+        <z:language>es</z:language>
+        <z:shortTitle>Colección</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://sexoyrevolucion.cedinci.org/s/la-comunidad-del-archivo/page/encuentros</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-01 19:19:57</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Article rdf:about="https://americalee.cedinci.org/wp-content/uploads/2021/10/TRAVESIAS_n5.pdf">
+        <z:itemType>magazineArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Periodical>
+                <dc:title>Travesías: temas del debate feminista contemporáneo</dc:title>
+                <prism:number>5</prism:number>
+            </bib:Periodical>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>AA.VV</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Feminismo en Argentina</dc:subject>
+        <dc:subject>Historia</dc:subject>
+        <dc:subject>Testimonios</dc:subject>
+        <dc:title>Feminismo por feministas: fragmentos para una historia del feminismo argentino, 1970-1996</dc:title>
+        <dc:date>10/1996</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://americalee.cedinci.org/wp-content/uploads/2021/10/TRAVESIAS_n5.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>3-144</bib:pages>
+    </bib:Article>
+    <z:Collection rdf:about="#collection_12">
+        <dc:title>Bibliografía</dc:title>
+        <dcterms:hasPart rdf:resource="https://publicaciones.sociales.uba.ar/index.php/anacronismo/article/view/5258"/>
+        <dcterms:hasPart rdf:resource="#item_370"/>
+        <dcterms:hasPart rdf:resource="#item_372"/>
+        <dcterms:hasPart rdf:resource="#item_374"/>
+        <dcterms:hasPart rdf:resource="#item_375"/>
+        <dcterms:hasPart rdf:resource="https://www.aletheia.fahce.unlp.edu.ar/article/view/alee176"/>
+        <dcterms:hasPart rdf:resource="https://www.jstor.org/stable/25764527"/>
+        <dcterms:hasPart rdf:resource="https://d1wqtxts1xzle7.cloudfront.net/103313841/DI_TULLIO_Feminismos_y_politica_II_1_2_1_-libre.pdf?1686612327=&amp;response-content-disposition=inline%3B+filename%3DEl_derecho_a_la_ESI_La_potencia_de_una_a.pdf&amp;Expires=1733064575&amp;Signature=Ko27mqYNhoJQGOzoX1rbb3RJXfamVRICszNzb8fWbgWbXSi~1e0LgiKlxJU88bn9aYjIu-FpIAW~VJrdssqv2-axWL8eXY2-KusKiAmAAtWfhRX4NuvCIZpU86SL9HFqlvkC1Xi9JPyxzrJ787hTbeoLKZAJNfXvVwwYFVwERyBiT8B4puNJa7AEdtdmTZA2j-QILL9DaeMZRoALAtnQvkynWrrCthQ2C3kzmSnllEiCtftyd5RAep5OJsn4wAmzntZA~6ZCKgLyOIaDHvlDrwzC2M8hBGRR3maEMqf5m~pYozS9VQdF-7p7D4gOLVyttbSyP9mrSiLr55fo3ZQMVw__&amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=97"/>
+        <dcterms:hasPart rdf:resource="#item_380"/>
+        <dcterms:hasPart rdf:resource="https://memoriaabierta.org.ar/wp/insumisas-encuentros-del-feminismo-y-el-movimiento-de-derechos-humanos/"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-99925-823-7-4"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-987-614-434-6"/>
+        <dcterms:hasPart rdf:resource="https://www.youtube.com/watch?v=RYkXOYAvGTo"/>
+        <dcterms:hasPart rdf:resource="https://www.youtube.com/watch?v=Q2KRW76FY3I"/>
+        <dcterms:hasPart rdf:resource="https://www.moleculasmalucas.com/post/tribunal-de-violencia-contra-la-mujer"/>
+        <dcterms:hasPart rdf:resource="https://www.moleculasmalucas.com/post/el-semanario-nueva-presencia"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-987-691-713-1"/>
+        <dcterms:hasPart rdf:resource="https://www.moleculasmalucas.com/post/una-porfía-entre-néstor-perlongher-y-maría-elena-oddone"/>
+        <dcterms:hasPart rdf:resource="https://hemeroteca.memoriaabierta.org.ar/boletin_informativo.php?id=161"/>
+        <dcterms:hasPart rdf:resource="https://tierra-violeta.com.ar/biblioteca-feminaria/revista-feminaria"/>
+        <dcterms:hasPart rdf:resource="https://americalee.cedinci.org/portfolio-items/alfonsina/"/>
+        <dcterms:hasPart rdf:resource="https://sexoyrevolucion.cedinci.org/s/la-comunidad-del-archivo/item/12676"/>
+        <dcterms:hasPart rdf:resource="#item_411"/>
+        <dcterms:hasPart rdf:resource="https://sexoyrevolucion.cedinci.org/s/la-comunidad-del-archivo/page/encuentros"/>
+    </z:Collection>
+</rdf:RDF>
