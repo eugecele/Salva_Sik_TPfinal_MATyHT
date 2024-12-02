@@ -1,0 +1,6 @@
+Este corpus tiene 1 documento con 1,849 total de palabras y 732 formulario de palabra única. Creado hace una hora atrás .
+Densidad del vocabulario 0.396
+Readability Index: 13.592
+Promedio de palabras por oración: 21.8
+Palabra más frecuente en el corpus:
+sexualidad (17); mujeres (14); mujer (14); diferencia (12); violencia (11)
