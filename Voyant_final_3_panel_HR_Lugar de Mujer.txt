@@ -1,0 +1,4 @@
+Este corpus tiene 1 documento con 4,567 total de palabras y 1,607 formulario de palabra única. Creado hace una hora atrás .
+Densidad del vocabulario 0.352
+Readability Index: 14.729
+Promedio de palabras por oración: 27.8
