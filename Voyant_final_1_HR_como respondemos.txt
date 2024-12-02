@@ -1,0 +1,13 @@
+Este corpus  tiene 1 documento  con 2,552 total de palabras y 934 formulario de palabra única. Creado  hace 8 horas atrás .
+
+Densidad del vocabulario  0.366
+
+Readability Index: 13.308
+
+Readability Index: 13.308
+
+Promedio de palabras por oración:  30.0
+
+Palabra más frecuente en el corpus: 
+feministas (18)	 feminista (16)	 violencia (12)	 respuestas (11)	 quienes (11)
+
