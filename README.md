@@ -19,17 +19,13 @@ Bibliografía
 
   Bellucci, M. (2014). Historia de una desobediencia: Aborto y feminismo (1a ed.). Capital Intelectual.
   
-  Casa Sofia (Director). (2020, marzo 22). #Alternativas. 2da temporada. Cap. 4: Adriana Carrasco [Video]. https://www.youtube.com/watch?v=RYkXOYAvGTo
+  Casa Sofia. (2020, marzo 22). #Alternativas. 2da temporada. Cap. 4: Adriana Carrasco [Video]. https://www.youtube.com/watch?v=RYkXOYAvGTo
   
   Colección: Encuentros Plurinacionales de Mujeres, Lesbianas, Trans, Travestis, Bisexuales, Intersexuales y No Binaries. (n.d.). Sexo y Revolución. Recuperado el 1 de diciembre de 2024, de https://sexoyrevolucion.cedinci.org/s/la-comunidad-del-archivo/page/encuentros
-
-  Comisión Organizadora. (1989). Folleto Síntesis del IV ENM.
   
   Daich, D. (2019). Tras las huellas de Ruth Mary Kelly: Feminismos y prostitución en la Buenos Aires del siglo XX (Primera ed.). Editorial Biblos.
   
   Felitti, K. (2010). Sexualidad y reproducción en la agenda feminista de la segunda ola en la Argentina (1970-1986). Estudios Sociológicos, 28(84), 791-812.
-  
-  Lugar de Mujer. (n.d.). [Volante de Lugar de Mujer]: «Aquí las mujeres somos protagonistas» [con detalles de la propuesta de la organización].
   
   Memoria Abierta. (n.d.). #Insumisas: Encuentros del feminismo y el movimiento de Derechos Humanos. Recuperado el 1 de diciembre de 2024, de https://memoriaabierta.org.ar/wp/insumisas-encuentros-del-feminismo-y-el-movimiento-de-derechos-humanos/
   
