@@ -12,6 +12,10 @@ Este trabajo no solo nos permitió organizar la información de manera efectiva,
 El link al documento anotado en Recogito:
 https://recogito.pelagios.org/document/b55z5ktqsj1v5n/part/1/edit
 
+Enlace a la colección digital utilizada: https://sexoyrevolucion.cedinci.org/s/la-comunidad-del-archivo/page/coleccion-lugar-de-mujer
+
+Enlace a la descripción del fondo de archivo de Hilda Rais: https://archivos.cedinci.org/index.php/hilda-rais-fondo
+
 
 
 
